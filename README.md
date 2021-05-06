@@ -1,3 +1,4 @@
+# Terraform Session day-1 (beginner to intermediate)
 # Terraform Workshop Guide
 
 ### Environment Setup
